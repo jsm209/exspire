@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: 1d1ae925fc1d19e48a10d90be4d3f62a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -17363036793735367
+    second: Red Snake Ghost Attack_0
+  - first:
+      213: 7381303816787230405
+    second: Red Snake Ghost Attack_1
+  - first:
+      213: 4959901446417402752
+    second: Red Snake Ghost Attack_2
+  - first:
+      213: -3005938846964277450
+    second: Red Snake Ghost Attack_3
+  - first:
+      213: -8020079036151500376
+    second: Red Snake Ghost Attack_4
+  - first:
+      213: -1901855248813873126
+    second: Red Snake Ghost Attack_5
+  - first:
+      213: -1116217980826509786
+    second: Red Snake Ghost Attack_6
+  - first:
+      213: 6792504971051967637
+    second: Red Snake Ghost Attack_7
+  - first:
+      213: -5979414859947437729
+    second: Red Snake Ghost Attack_8
+  - first:
+      213: 4462901007110266690
+    second: Red Snake Ghost Attack_9
+  - first:
+      213: -617388241496261949
+    second: Red Snake Ghost Attack_10
+  - first:
+      213: -6983389969251768873
+    second: Red Snake Ghost Attack_11
+  - first:
+      213: 8144828631047831703
+    second: Red Snake Ghost Attack_12
+  - first:
+      213: -197082088266220685
+    second: Red Snake Ghost Attack_13
+  - first:
+      213: 5177381466583888358
+    second: Red Snake Ghost Attack_14
+  - first:
+      213: -6336341918837466455
+    second: Red Snake Ghost Attack_15
+  - first:
+      213: 8521883361494163597
+    second: Red Snake Ghost Attack_16
+  - first:
+      213: 4064509539863541513
+    second: Red Snake Ghost Attack_17
+  - first:
+      213: 8768360457135183823
+    second: Red Snake Ghost Attack_18
+  - first:
+      213: -3253615569823481389
+    second: Red Snake Ghost Attack_19
+  - first:
+      213: -4681469092346926774
+    second: Red Snake Ghost Attack_20
+  - first:
+      213: -753327168433403685
+    second: Red Snake Ghost Attack_21
+  - first:
+      213: -5543506956047403292
+    second: Red Snake Ghost Attack_22
+  - first:
+      213: -1411673554583543251
+    second: Red Snake Ghost Attack_23
+  - first:
+      213: -7423364583375674980
+    second: Red Snake Ghost Attack_24
+  - first:
+      213: -975339513124761834
+    second: Red Snake Ghost Attack_25
+  - first:
+      213: 337796288319310292
+    second: Red Snake Ghost Attack_26
+  - first:
+      213: -6347036748012697331
+    second: Red Snake Ghost Attack_27
+  - first:
+      213: -6257729320562869046
+    second: Red Snake Ghost Attack_28
+  - first:
+      213: 8546743690333748835
+    second: Red Snake Ghost Attack_29
+  - first:
+      213: -8136012520858236888
+    second: Red Snake Ghost Attack_30
+  - first:
+      213: 4278280881103616130
+    second: Red Snake Ghost Attack_31
+  - first:
+      213: 4051944581965688901
+    second: Red Snake Ghost Attack_32
+  - first:
+      213: -3657749039818497585
+    second: Red Snake Ghost Attack_33
+  - first:
+      213: -1929263589909355726
+    second: Red Snake Ghost Attack_34
+  - first:
+      213: -806054699722901812
+    second: Red Snake Ghost Attack_35
+  - first:
+      213: 5152681328999626211
+    second: Red Snake Ghost Attack_36
+  - first:
+      213: 7884313990590978674
+    second: Red Snake Ghost Attack_37
+  - first:
+      213: -3950758433779338713
+    second: Red Snake Ghost Attack_38
+  - first:
+      213: 4928449055907118181
+    second: Red Snake Ghost Attack_39
+  - first:
+      213: -5897532499133096742
+    second: Red Snake Ghost Attack_40
+  - first:
+      213: 2719622294089738349
+    second: Red Snake Ghost Attack_41
+  - first:
+      213: -2186455853936754981
+    second: Red Snake Ghost Attack_42
+  - first:
+      213: 5073540154011833687
+    second: Red Snake Ghost Attack_43
+  - first:
+      213: -6642320686541595837
+    second: Red Snake Ghost Attack_44
+  - first:
+      213: 8012414783459800403
+    second: Red Snake Ghost Attack_45
+  - first:
+      213: 5152193014816495252
+    second: Red Snake Ghost Attack_46
+  - first:
+      213: 8413407981618877119
+    second: Red Snake Ghost Attack_47
+  - first:
+      213: -6474002009151823244
+    second: Red Snake Ghost Attack_48
+  - first:
+      213: 6545316485039834712
+    second: Red Snake Ghost Attack_49
+  - first:
+      213: 7040589471003007164
+    second: Red Snake Ghost Attack_50
+  - first:
+      213: -4987572835153910940
+    second: Red Snake Ghost Attack_51
+  - first:
+      213: -5562879577249000212
+    second: Red Snake Ghost Attack_52
+  - first:
+      213: 7903546992719780186
+    second: Red Snake Ghost Attack_53
+  - first:
+      213: -5985271913234154696
+    second: Red Snake Ghost Attack_54
+  - first:
+      213: 7335070516413812182
+    second: Red Snake Ghost Attack_55
+  - first:
+      213: -8899554822157548767
+    second: Red Snake Ghost Attack_56
+  - first:
+      213: -263444380358002259
+    second: Red Snake Ghost Attack_57
+  - first:
+      213: 4662825094657862115
+    second: Red Snake Ghost Attack_58
+  - first:
+      213: -6232907460654382857
+    second: Red Snake Ghost Attack_59
+  - first:
+      213: 4407130192925092448
+    second: Red Snake Ghost Attack_60
+  - first:
+      213: 2688354200248890699
+    second: Red Snake Ghost Attack_61
+  - first:
+      213: -8731517272516210276
+    second: Red Snake Ghost Attack_62
+  - first:
+      213: -7721476341789592414
+    second: Red Snake Ghost Attack_63
+  - first:
+      213: 286994231093866808
+    second: Red Snake Ghost Attack_64
+  - first:
+      213: 485920419530452298
+    second: Red Snake Ghost Attack_65
+  - first:
+      213: 7630922257140077605
+    second: Red Snake Ghost Attack_66
+  - first:
+      213: 7568901149312618999
+    second: Red Snake Ghost Attack_67
+  - first:
+      213: -7318161277717967649
+    second: Red Snake Ghost Attack_68
+  - first:
+      213: -2765167557366564746
+    second: Red Snake Ghost Attack_69
+  - first:
+      213: 1537161245062246481
+    second: Red Snake Ghost Attack_70
+  - first:
+      213: 7293614391061325980
+    second: Red Snake Ghost Attack_71
+  - first:
+      213: -357722237339428306
+    second: Red Snake Ghost Attack_72
+  - first:
+      213: -2324246931633533637
+    second: Red Snake Ghost Attack_73
+  - first:
+      213: -7681741910368294861
+    second: Red Snake Ghost Attack_74
+  - first:
+      213: 764242591911360363
+    second: Red Snake Ghost Attack_75
+  - first:
+      213: 8667087441279161219
+    second: Red Snake Ghost Attack_76
+  - first:
+      213: -8560163383579536805
+    second: Red Snake Ghost Attack_77
+  - first:
+      213: -5460863506832222249
+    second: Red Snake Ghost Attack_78
+  - first:
+      213: 8590686187258826202
+    second: Red Snake Ghost Attack_79
+  - first:
+      213: -8113200810548819089
+    second: Red Snake Ghost Attack_80
+  - first:
+      213: 3297377430500435879
+    second: Red Snake Ghost Attack_81
+  - first:
+      213: 4826929509652320905
+    second: Red Snake Ghost Attack_82
+  - first:
+      213: -8414846824886620539
+    second: Red Snake Ghost Attack_83
+  - first:
+      213: 7487303992651160118
+    second: Red Snake Ghost Attack_84
+  - first:
+      213: 6151714500478387896
+    second: Red Snake Ghost Attack_85
+  - first:
+      213: 7043255306741346024
+    second: Red Snake Ghost Attack_86
+  - first:
+      213: -3344266297326933501
+    second: Red Snake Ghost Attack_87
+  - first:
+      213: 3919571423685172571
+    second: Red Snake Ghost Attack_88
+  - first:
+      213: -3975755712150704156
+    second: Red Snake Ghost Attack_89
+  - first:
+      213: 3264345298380302630
+    second: Red Snake Ghost Attack_90
+  - first:
+      213: -1688378224453874461
+    second: Red Snake Ghost Attack_91
+  - first:
+      213: 1708928134167003425
+    second: Red Snake Ghost Attack_92
+  - first:
+      213: -1374583849404022478
+    second: Red Snake Ghost Attack_93
+  - first:
+      213: -7533987794595926801
+    second: Red Snake Ghost Attack_94
+  - first:
+      213: -2360470917215880895
+    second: Red Snake Ghost Attack_95
+  - first:
+      213: 5028686647222998340
+    second: Red Snake Ghost Attack_96
+  - first:
+      213: -4285808292005222101
+    second: Red Snake Ghost Attack_97
+  - first:
+      213: 1435750488694694812
+    second: Red Snake Ghost Attack_98
+  - first:
+      213: -3982137934097634104
+    second: Red Snake Ghost Attack_99
+  - first:
+      213: 663364892825982497
+    second: Red Snake Ghost Attack_100
+  - first:
+      213: -3529326590184495800
+    second: Red Snake Ghost Attack_101
+  - first:
+      213: 6181982451795810839
+    second: Red Snake Ghost Attack_102
+  - first:
+      213: -6047943024228056071
+    second: Red Snake Ghost Attack_103
+  - first:
+      213: -4861239270295071317
+    second: Red Snake Ghost Attack_104
+  - first:
+      213: 6057185027320907002
+    second: Red Snake Ghost Attack_105
+  - first:
+      213: 3340100329721661321
+    second: Red Snake Ghost Attack_106
+  - first:
+      213: -5965049885266602425
+    second: Red Snake Ghost Attack_107
+  - first:
+      213: 6262711903730008020
+    second: Red Snake Ghost Attack_108
+  - first:
+      213: -8675588888160888274
+    second: Red Snake Ghost Attack_109
+  - first:
+      213: 8300791531835741169
+    second: Red Snake Ghost Attack_110
+  - first:
+      213: 6705096783240083707
+    second: Red Snake Ghost Attack_111
+  - first:
+      213: 4937398944984813109
+    second: Red Snake Ghost Attack_112
+  - first:
+      213: -3613922972519397477
+    second: Red Snake Ghost Attack_113
+  - first:
+      213: 6915867041722436802
+    second: Red Snake Ghost Attack_114
+  - first:
+      213: 6682453481274713964
+    second: Red Snake Ghost Attack_115
+  - first:
+      213: 6888077665886236615
+    second: Red Snake Ghost Attack_116
+  - first:
+      213: 6982338756884673091
+    second: Red Snake Ghost Attack_117
+  - first:
+      213: -8074515982196608223
+    second: Red Snake Ghost Attack_118
+  - first:
+      213: 1506045032057028580
+    second: Red Snake Ghost Attack_119
+  - first:
+      213: -3672986782501855668
+    second: Red Snake Ghost Attack_120
+  - first:
+      213: -4758597861088072050
+    second: Red Snake Ghost Attack_121
+  - first:
+      213: 5820649582374202147
+    second: Red Snake Ghost Attack_122
+  - first:
+      213: 2716599301341031426
+    second: Red Snake Ghost Attack_123
+  - first:
+      213: 1868518709683274016
+    second: Red Snake Ghost Attack_124
+  - first:
+      213: 1810443453312852894
+    second: Red Snake Ghost Attack_125
+  - first:
+      213: 4740275577799762005
+    second: Red Snake Ghost Attack_126
+  - first:
+      213: 473756844651283509
+    second: Red Snake Ghost Attack_127
+  - first:
+      213: 6584153976134707091
+    second: Red Snake Ghost Attack_128
+  - first:
+      213: -1389798162745228253
+    second: Red Snake Ghost Attack_129
+  - first:
+      213: -4857832891487277010
+    second: Red Snake Ghost Attack_130
+  - first:
+      213: 6639317793306873002
+    second: Red Snake Ghost Attack_131
+  - first:
+      213: 4397401577267355080
+    second: Red Snake Ghost Attack_132
+  - first:
+      213: -8726299785497034361
+    second: Red Snake Ghost Attack_133
+  - first:
+      213: 5383212412972428295
+    second: Red Snake Ghost Attack_134
+  - first:
+      213: 6798563769036615254
+    second: Red Snake Ghost Attack_135
+  - first:
+      213: -4775778050893383479
+    second: Red Snake Ghost Attack_136
+  - first:
+      213: -3366064465776256738
+    second: Red Snake Ghost Attack_137
+  - first:
+      213: -3682191452477760664
+    second: Red Snake Ghost Attack_138
+  - first:
+      213: 7145606772939878726
+    second: Red Snake Ghost Attack_139
+  - first:
+      213: -638255935958554863
+    second: Red Snake Ghost Attack_140
+  - first:
+      213: -388196870000309089
+    second: Red Snake Ghost Attack_141
+  - first:
+      213: -3748787154674342014
+    second: Red Snake Ghost Attack_142
+  - first:
+      213: -6730895074627111828
+    second: Red Snake Ghost Attack_143
+  - first:
+      213: 8234268681514021680
+    second: Red Snake Ghost Attack_144
+  - first:
+      213: 5745212521605165265
+    second: Red Snake Ghost Attack_145
+  - first:
+      213: -7223988547256481859
+    second: Red Snake Ghost Attack_146
+  - first:
+      213: 6630336217337266281
+    second: Red Snake Ghost Attack_147
+  - first:
+      213: 8837884383379463195
+    second: Red Snake Ghost Attack_148
+  - first:
+      213: 3796487383905938869
+    second: Red Snake Ghost Attack_149
+  - first:
+      213: 3056005381803599655
+    second: Red Snake Ghost Attack_150
+  - first:
+      213: 3813428497848727976
+    second: Red Snake Ghost Attack_151
+  - first:
+      213: -4073246888548036327
+    second: Red Snake Ghost Attack_152
+  - first:
+      213: 2388224882696781977
+    second: Red Snake Ghost Attack_153
+  - first:
+      213: -6247541329287657331
+    second: Red Snake Ghost Attack_154
+  - first:
+      213: -4398509935483115753
+    second: Red Snake Ghost Attack_155
+  - first:
+      213: 619242284615773280
+    second: Red Snake Ghost Attack_156
+  - first:
+      213: -4644872971904896504
+    second: Red Snake Ghost Attack_157
+  - first:
+      213: 3902797626959364220
+    second: Red Snake Ghost Attack_158
+  - first:
+      213: -9012407551070080225
+    second: Red Snake Ghost Attack_159
+  - first:
+      213: 2920911752058115734
+    second: Red Snake Ghost Attack_160
+  - first:
+      213: 8782603995571375839
+    second: Red Snake Ghost Attack_161
+  - first:
+      213: -488709098672045013
+    second: Red Snake Ghost Attack_162
+  - first:
+      213: -4987524211251580824
+    second: Red Snake Ghost Attack_163
+  - first:
+      213: -712151286651228955
+    second: Red Snake Ghost Attack_164
+  - first:
+      213: 7054830979298266069
+    second: Red Snake Ghost Attack_165
+  - first:
+      213: -8170835851756991030
+    second: Red Snake Ghost Attack_166
+  - first:
+      213: 3533592865618788434
+    second: Red Snake Ghost Attack_167
+  - first:
+      213: -8116326762917161919
+    second: Red Snake Ghost Attack_168
+  - first:
+      213: -6581641974871327397
+    second: Red Snake Ghost Attack_169
+  - first:
+      213: -2402463188782115487
+    second: Red Snake Ghost Attack_170
+  - first:
+      213: -6708701058645918101
+    second: Red Snake Ghost Attack_171
+  - first:
+      213: -1693424694606398746
+    second: Red Snake Ghost Attack_172
+  - first:
+      213: 1623555617319949
+    second: Red Snake Ghost Attack_173
+  - first:
+      213: 1577126176419654928
+    second: Red Snake Ghost Attack_174
+  - first:
+      213: 2901412633600470119
+    second: Red Snake Ghost Attack_175
+  - first:
+      213: 3664121980757670495
+    second: Red Snake Ghost Attack_176
+  - first:
+      213: 7743753976958583424
+    second: Red Snake Ghost Attack_177
+  - first:
+      213: 1007411248588359068
+    second: Red Snake Ghost Attack_178
+  - first:
+      213: -6332999209441182172
+    second: Red Snake Ghost Attack_179
+  - first:
+      213: -4834451681875559996
+    second: Red Snake Ghost Attack_180
+  - first:
+      213: -810828111669800608
+    second: Red Snake Ghost Attack_181
+  - first:
+      213: -131505165278931791
+    second: Red Snake Ghost Attack_182
+  - first:
+      213: -2557893291602470886
+    second: Red Snake Ghost Attack_183
+  - first:
+      213: -1334018054695645393
+    second: Red Snake Ghost Attack_184
+  - first:
+      213: -3401039445381208743
+    second: Red Snake Ghost Attack_185
+  - first:
+      213: 6331021094230883102
+    second: Red Snake Ghost Attack_186
+  - first:
+      213: 3376661214109869952
+    second: Red Snake Ghost Attack_187
+  - first:
+      213: -1480340369448877857
+    second: Red Snake Ghost Attack_188
+  - first:
+      213: 3794637253620795630
+    second: Red Snake Ghost Attack_189
+  - first:
+      213: -6252244877174230404
+    second: Red Snake Ghost Attack_190
+  - first:
+      213: -1872304003758103061
+    second: Red Snake Ghost Attack_191
+  - first:
+      213: 597983826410427441
+    second: Red Snake Ghost Attack_192
+  - first:
+      213: -4215177934313953927
+    second: Red Snake Ghost Attack_193
+  - first:
+      213: 8936756895629666431
+    second: Red Snake Ghost Attack_194
+  - first:
+      213: 2230405526743287418
+    second: Red Snake Ghost Attack_195
+  - first:
+      213: 4632858485291988305
+    second: Red Snake Ghost Attack_196
+  - first:
+      213: 2919585426763179347
+    second: Red Snake Ghost Attack_197
+  - first:
+      213: 5565168576363165156
+    second: Red Snake Ghost Attack_198
+  - first:
+      213: -593474256464950517
+    second: Red Snake Ghost Attack_199
+  - first:
+      213: -6227619215561282067
+    second: Red Snake Ghost Attack_200
+  - first:
+      213: 4461568915470749463
+    second: Red Snake Ghost Attack_201
+  - first:
+      213: -6134967601128009286
+    second: Red Snake Ghost Attack_202
+  - first:
+      213: 182632588756422050
+    second: Red Snake Ghost Attack_203
+  - first:
+      213: -80766577773108295
+    second: Red Snake Ghost Attack_204
+  - first:
+      213: -4496453132736245022
+    second: Red Snake Ghost Attack_205
+  - first:
+      213: -5852166037308758864
+    second: Red Snake Ghost Attack_206
+  - first:
+      213: -7663314177671132390
+    second: Red Snake Ghost Attack_207
+  - first:
+      213: 1951545769023720236
+    second: Red Snake Ghost Attack_208
+  - first:
+      213: 4802844540939077301
+    second: Red Snake Ghost Attack_209
+  - first:
+      213: 1089830008516175216
+    second: Red Snake Ghost Attack_210
+  - first:
+      213: 1304528123472344898
+    second: Red Snake Ghost Attack_211
+  - first:
+      213: -6473225845589692686
+    second: Red Snake Ghost Attack_212
+  - first:
+      213: 5292762362345576952
+    second: Red Snake Ghost Attack_213
+  - first:
+      213: -5948802126262171339
+    second: Red Snake Ghost Attack_214
+  - first:
+      213: -4498508284876449889
+    second: Red Snake Ghost Attack_215
+  - first:
+      213: -5476069767867631132
+    second: Red Snake Ghost Attack_216
+  - first:
+      213: -2186912133226863939
+    second: Red Snake Ghost Attack_217
+  - first:
+      213: 8303863460783340724
+    second: Red Snake Ghost Attack_218
+  - first:
+      213: -6141558712637475833
+    second: Red Snake Ghost Attack_219
+  - first:
+      213: 7006068627553848621
+    second: Red Snake Ghost Attack_220
+  - first:
+      213: 7262707853378786318
+    second: Red Snake Ghost Attack_221
+  - first:
+      213: 4212020390427122684
+    second: Red Snake Ghost Attack_222
+  - first:
+      213: 8242160543653816038
+    second: Red Snake Ghost Attack_223
+  - first:
+      213: 1605167720602231608
+    second: Red Snake Ghost Attack_224
+  - first:
+      213: 5546505711985758013
+    second: Red Snake Ghost Attack_225
+  - first:
+      213: 8220202067343221767
+    second: Red Snake Ghost Attack_226
+  - first:
+      213: -4258946768206191887
+    second: Red Snake Ghost Attack_227
+  - first:
+      213: 4364278095820698232
+    second: Red Snake Ghost Attack_228
+  - first:
+      213: -3839680404323706815
+    second: Red Snake Ghost Attack_229
+  - first:
+      213: 6754088558628356838
+    second: Red Snake Ghost Attack_230
+  - first:
+      213: 4014336013983151604
+    second: Red Snake Ghost Attack_231
+  - first:
+      213: -8175282961406857073
+    second: Red Snake Ghost Attack_232
+  - first:
+      213: -7692626647253513931
+    second: Red Snake Ghost Attack_233
+  - first:
+      213: 2858210056885639802
+    second: Red Snake Ghost Attack_234
+  - first:
+      213: 7841504375404102299
+    second: Red Snake Ghost Attack_235
+  - first:
+      213: -1119259145360785217
+    second: Red Snake Ghost Attack_236
+  - first:
+      213: -8215270471090249449
+    second: Red Snake Ghost Attack_237
+  - first:
+      213: -8003407247475096303
+    second: Red Snake Ghost Attack_238
+  - first:
+      213: -6298924394389818005
+    second: Red Snake Ghost Attack_239
+  - first:
+      213: -4724515028393049267
+    second: Red Snake Ghost Attack_240
+  - first:
+      213: 4599750491043080805
+    second: Red Snake Ghost Attack_241
+  - first:
+      213: 5739194770871875992
+    second: Red Snake Ghost Attack_242
+  - first:
+      213: 3119064382192643467
+    second: Red Snake Ghost Attack_243
+  - first:
+      213: -1334826282414766822
+    second: Red Snake Ghost Attack_244
+  - first:
+      213: 4263981391088800022
+    second: Red Snake Ghost Attack_245
+  - first:
+      213: 2979264446119965603
+    second: Red Snake Ghost Attack_246
+  - first:
+      213: 3473211986493819619
+    second: Red Snake Ghost Attack_247
+  - first:
+      213: -3238327390370941885
+    second: Red Snake Ghost Attack_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ffa7f86052cff0800000000000000
+      internalID: -17363036793735367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_1
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce76daa6b8af6660800000000000000
+      internalID: 7381303816787230405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_2
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc7aa361c15d440800000000000000
+      internalID: 4959901446417402752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_3
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f952a7b82c846d0800000000000000
+      internalID: -3005938846964277450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_4
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f1abdb94f2b090800000000000000
+      internalID: -8020079036151500376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_5
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ac384ab04b95e0800000000000000
+      internalID: -1901855248813873126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_6
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e9ee019a56280f0800000000000000
+      internalID: -1116217980826509786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Snake Ghost Attack_7
+      rect:
+        serializedVersion: 2
+        x: 14336
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a0ae6843d34e50800000000000000
+      internalID: 6792504971051967637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
