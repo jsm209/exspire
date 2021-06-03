@@ -6,7 +6,9 @@ public static class SaveSystem
 {
     public static void SavePlayer(Player player) {
         BinaryFormatter formatter = new BinaryFormatter();
-        string path = Application.persistentDataPath + "/player.kindle";
+        string saveName = PlayerPrefs.GetString("saveslot");
+
+        string path = Application.persistentDataPath + "/" + saveName + ".kindle";
         FileStream stream = new FileStream(path, FileMode.Create);
 
         PlayerData data = new PlayerData(player);
@@ -16,11 +18,11 @@ public static class SaveSystem
     }
 
     public static PlayerData LoadPlayer() {
-        string path = Application.persistentDataPath + "/player.kindle";
+        string saveName = PlayerPrefs.GetString("saveslot");
+        string path = Application.persistentDataPath + "/" + saveName + ".kindle";
         if (File.Exists(path)) {
             BinaryFormatter formatter = new BinaryFormatter();
             FileStream stream = new FileStream(path, FileMode.Open);
-
             PlayerData data = formatter.Deserialize(stream) as PlayerData;
             stream.Close();
             
@@ -28,6 +30,16 @@ public static class SaveSystem
         } else {
             Debug.LogError("Save file not found in " + path);
             return null;
+        }
+    }
+
+    public static void DeletePlayer() {
+        string saveName = PlayerPrefs.GetString("saveslot");
+        string path = Application.persistentDataPath + "/" + saveName + ".kindle";
+        if (File.Exists(path)) {
+            File.Delete(path);
+        } else {
+            Debug.LogError("Save file not found in " + path);
         }
     }
 }

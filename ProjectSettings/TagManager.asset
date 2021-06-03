@@ -3,7 +3,41 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerProjectile
+  - EnemyProjectile
+  - Reflector
+  - Enemy
+  - TitleText
+  - SubtitleText
+  - Healthbar
+  - PromptText
+  - SpeechBubble
+  - AmmoText
+  - Kindle
+  - Heart
+  - UI_CurrentPlayerProjectileImage
+  - UI_CurrentPlayerProjectileName
+  - UI_CurrentPlayerProjectileCost
+  - ScreenFlash
+  - Money
+  - MoneyText
+  - MessageBoxText
+  - MessageBox
+  - MessageBoxDirection
+  - MessageBoxImage
+  - Item
+  - Rooms
+  - RoomSpawnPoint
+  - FloorKeyImage
+  - FloorKey
+  - hurtbox
+  - Hitbox
+  - SpriteDatabase
+  - Inventory
+  - Wall
+  - ProjectilePickup
+  - ProjectileDatabase
   layers:
   - Default
   - TransparentFX
@@ -16,13 +50,13 @@ TagManager:
   - PlayerProjectiles
   - Player
   - EnemyProjectiles
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - PlayerShield
+  - Chasm
+  - FlyingEnemy
+  - Kindle
+  - ProjectilePickup
+  - Item
   - 
   - 
   - 
@@ -38,6 +72,39 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Map
+    uniqueID: 280034649
+    locked: 0
+  - name: Floor
+    uniqueID: 2472173555
+    locked: 0
+  - name: BackWall
+    uniqueID: 1472993741
+    locked: 0
+  - name: Backwall Decoration
+    uniqueID: 2732957777
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Items
+    uniqueID: 215071091
+    locked: 0
+  - name: Topwall
+    uniqueID: 4158068549
+    locked: 0
+  - name: Overlay
+    uniqueID: 1371442965
+    locked: 0
+  - name: TreeTrunks
+    uniqueID: 434556193
+    locked: 0
+  - name: TreeFoliage
+    uniqueID: 1539999347
+    locked: 0
+  - name: TreeBerries
+    uniqueID: 1134250411
+    locked: 0
+  - name: text
+    uniqueID: 2763027815
     locked: 0

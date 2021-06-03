@@ -1,0 +1,716 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4222847949224114064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6072865642794139814}
+  m_Layer: 0
+  m_Name: HardEncounter4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6072865642794139814
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4222847949224114064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.4022903, y: -9.369543, z: -218.67188}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2926496800110256417}
+  - {fileID: 1934502201683535521}
+  - {fileID: 7135310088857114475}
+  - {fileID: 1193747706735194704}
+  - {fileID: 4774342849100008209}
+  - {fileID: 7711390140282666112}
+  - {fileID: 8670065774941859841}
+  - {fileID: 5250187047860517265}
+  - {fileID: 2694926467248632249}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1189285472098784028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &4774342849100008209 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1189285472098784028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1881526211103318428
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &5250187047860517265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1881526211103318428}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3067705274176186380
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.780001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &8670065774941859841 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 3067705274176186380}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3586371547493142374
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &7135310088857114475 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 3586371547493142374}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4162648951579485325
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &7711390140282666112 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 4162648951579485325}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4778851804392729181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &1193747706735194704 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 4778851804392729181}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5194995438154792620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &1934502201683535521 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5194995438154792620}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8621756677266631092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.780001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &2694926467248632249 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 8621756677266631092}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8817465359269427500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6072865642794139814}
+    m_Modifications:
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5963029048018032654, guid: a2986b9b9f32b2144868d3caad076eb5,
+        type: 3}
+      propertyPath: m_Name
+      value: Small Robot Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2986b9b9f32b2144868d3caad076eb5, type: 3}
+--- !u!4 &2926496800110256417 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5963029048018032653, guid: a2986b9b9f32b2144868d3caad076eb5,
+    type: 3}
+  m_PrefabInstance: {fileID: 8817465359269427500}
+  m_PrefabAsset: {fileID: 0}

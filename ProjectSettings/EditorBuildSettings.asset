@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SwampExplore.unity
+    guid: b6213e044295b9c4189c1754dedca456
+  - enabled: 0
+    path: Assets/Scenes/SwampBoss.unity
+    guid: 4b0ace9f54b60e947a96c708e8e4643e
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: ea9182e0f29a45b488ecf3dba6503c08
+  - enabled: 1
+    path: Assets/Scenes/MainDungeon.unity
+    guid: 235113d27d4fbe246a52d9393f942d4f
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 210e2bd5457f13d4886f79f2dfa1eb4f
+  - enabled: 1
+    path: Assets/Scenes/BossBallisticGolem.unity
+    guid: 1f53fa95eecae4345bd8a1769e036e51
+  - enabled: 1
+    path: Assets/Scenes/TutorialDungeon.unity
+    guid: 2cad4494bc913f0419b208e8845da249
   m_configObjects: {}

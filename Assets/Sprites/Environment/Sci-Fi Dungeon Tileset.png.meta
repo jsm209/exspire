@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 5e10ed36aed66fc469d7a2b521466762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4900708000477148336
+    second: Sci-Fi Dungeon Tileset_0
+  - first:
+      213: 6989827671186032179
+    second: Sci-Fi Dungeon Tileset_1
+  - first:
+      213: -349291709805672034
+    second: Sci-Fi Dungeon Tileset_2
+  - first:
+      213: -765602961190158854
+    second: Sci-Fi Dungeon Tileset_3
+  - first:
+      213: -3668040116893245241
+    second: Sci-Fi Dungeon Tileset_4
+  - first:
+      213: -8554750160335195108
+    second: Sci-Fi Dungeon Tileset_5
+  - first:
+      213: -2029613182266928902
+    second: Sci-Fi Dungeon Tileset_6
+  - first:
+      213: 7691097136624791686
+    second: Sci-Fi Dungeon Tileset_7
+  - first:
+      213: -8776738254011450218
+    second: Sci-Fi Dungeon Tileset_8
+  - first:
+      213: 23999320891453421
+    second: Sci-Fi Dungeon Tileset_0
+  - first:
+      213: 956338046244475583
+    second: Sci-Fi Dungeon Tileset_1
+  - first:
+      213: 5971620455237886983
+    second: Sci-Fi Dungeon Tileset_2
+  - first:
+      213: 655153148741243059
+    second: Sci-Fi Dungeon Tileset_3
+  - first:
+      213: -4343200815882803132
+    second: Sci-Fi Dungeon Tileset_4
+  - first:
+      213: -5160576926416775262
+    second: Sci-Fi Dungeon Tileset_5
+  - first:
+      213: 7601962190902961747
+    second: Sci-Fi Dungeon Tileset_6
+  - first:
+      213: 5725663474352457850
+    second: Sci-Fi Dungeon Tileset_7
+  - first:
+      213: 5750878715858920166
+    second: Sci-Fi Dungeon Tileset_8
+  - first:
+      213: -3535535147999796515
+    second: Sci-Fi Dungeon Tileset_9
+  - first:
+      213: 3975551128786463506
+    second: Sci-Fi Dungeon Tileset_10
+  - first:
+      213: 8655965276804506160
+    second: Sci-Fi Dungeon Tileset_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9216
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defe5945143455000800000000000000
+      internalID: 23999320891453421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 9216
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2d79bd268954d00800000000000000
+      internalID: 956338046244475583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 9216
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70429ef3a257fd250800000000000000
+      internalID: 5971620455237886983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b053305152971900800000000000000
+      internalID: 655153148741243059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486e158ed9d9b3c0800000000000000
+      internalID: -4343200815882803132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 6144
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d9d890a2f168b0800000000000000
+      internalID: -5160576926416775262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a8b0f5589f7960800000000000000
+      internalID: 7601962190902961747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7805341894a57f40800000000000000
+      internalID: 5725663474352457850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 3072
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2202df8b93fcf40800000000000000
+      internalID: 5750878715858920166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26094d3814feec0800000000000000
+      internalID: -3535535147999796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b68b130befb2730800000000000000
+      internalID: 3975551128786463506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Dungeon Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 3072
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326c08de8a202870800000000000000
+      internalID: 8655965276804506160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

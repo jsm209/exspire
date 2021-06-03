@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 881a28e874316f946980ad9c5a30ace5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5294126470948370033
+    second: Marching Robot_0
+  - first:
+      213: -796380832766147635
+    second: Marching Robot_1
+  - first:
+      213: 8716542480877254059
+    second: Marching Robot_2
+  - first:
+      213: 5615657741611754075
+    second: Marching Robot_3
+  - first:
+      213: -8603343896178982079
+    second: Marching Robot_4
+  - first:
+      213: 7610394839448200111
+    second: Marching Robot_5
+  - first:
+      213: -2486437589614406467
+    second: Marching Robot_6
+  - first:
+      213: 8737895715557511650
+    second: Marching Robot_7
+  - first:
+      213: 7675105037446661711
+    second: Marching Robot_8
+  - first:
+      213: 3261621474624014384
+    second: Marching Robot_9
+  - first:
+      213: -89906527867579510
+    second: Marching Robot_10
+  - first:
+      213: -5781368248411867164
+    second: Marching Robot_11
+  - first:
+      213: -3554816896472085266
+    second: Marching Robot_12
+  - first:
+      213: -5906844689463375393
+    second: Marching Robot_13
+  - first:
+      213: 6570066971444530664
+    second: Marching Robot_14
+  - first:
+      213: -7565060637655021614
+    second: Marching Robot_15
+  - first:
+      213: 4984079846164954289
+    second: Marching Robot_16
+  - first:
+      213: -6712345886298164283
+    second: Marching Robot_17
+  - first:
+      213: -7363278415794232647
+    second: Marching Robot_18
+  - first:
+      213: 4227011013655701516
+    second: Marching Robot_19
+  - first:
+      213: -8558818048332126730
+    second: Marching Robot_20
+  - first:
+      213: -2261451405551291416
+    second: Marching Robot_21
+  - first:
+      213: -6404722540555649160
+    second: Marching Robot_22
+  - first:
+      213: -7157099490927295287
+    second: Marching Robot_23
+  - first:
+      213: 4188082417446255063
+    second: Marching Robot_24
+  - first:
+      213: -5791872872136309903
+    second: Marching Robot_25
+  - first:
+      213: 61716386162180012
+    second: Marching Robot_26
+  - first:
+      213: -5924216676052089718
+    second: Marching Robot_27
+  - first:
+      213: 2846640555872608364
+    second: Marching Robot_28
+  - first:
+      213: -5878077246982449334
+    second: Marching Robot_29
+  - first:
+      213: 3386295080655769842
+    second: Marching Robot_30
+  - first:
+      213: -8374834598475736948
+    second: Marching Robot_31
+  - first:
+      213: 2678888284523331674
+    second: Marching Robot_32
+  - first:
+      213: -1583802097989091362
+    second: Marching Robot_33
+  - first:
+      213: 6203755186989665413
+    second: Marching Robot_34
+  - first:
+      213: -5810279335767025008
+    second: Marching Robot_35
+  - first:
+      213: 850518255582681216
+    second: Marching Robot_36
+  - first:
+      213: 8980361719108848766
+    second: Marching Robot_37
+  - first:
+      213: -1620136255961021550
+    second: Marching Robot_38
+  - first:
+      213: -1591235289750260505
+    second: Marching Robot_39
+  - first:
+      213: -2659223909366331188
+    second: Marching Robot_40
+  - first:
+      213: -8401763777962512579
+    second: Marching Robot_41
+  - first:
+      213: 5991187348762689279
+    second: Marching Robot_42
+  - first:
+      213: -552119191305108840
+    second: Marching Robot_43
+  - first:
+      213: -8065535094519633938
+    second: Marching Robot_44
+  - first:
+      213: 6952283277120247122
+    second: Marching Robot_45
+  - first:
+      213: -599624236050526196
+    second: Marching Robot_46
+  - first:
+      213: 8874461167570854046
+    second: Marching Robot_47
+  - first:
+      213: 4154262396376691885
+    second: Marching Robot_48
+  - first:
+      213: -4607966017916335250
+    second: Marching Robot_49
+  - first:
+      213: 5860734947178748141
+    second: Marching Robot_50
+  - first:
+      213: -1435454840008037405
+    second: Marching Robot_51
+  - first:
+      213: 8312760460351402204
+    second: Marching Robot_52
+  - first:
+      213: 138410921409127353
+    second: Marching Robot_53
+  - first:
+      213: -332852554693422725
+    second: Marching Robot_54
+  - first:
+      213: -5159657387372620562
+    second: Marching Robot_55
+  - first:
+      213: 7752970336254328265
+    second: Marching Robot_56
+  - first:
+      213: 6792271167297565448
+    second: Marching Robot_57
+  - first:
+      213: -6611756178695194769
+    second: Marching Robot_58
+  - first:
+      213: 8332355297278435144
+    second: Marching Robot_59
+  - first:
+      213: -1999236334832915533
+    second: Marching Robot_60
+  - first:
+      213: -4229791188570035899
+    second: Marching Robot_61
+  - first:
+      213: -1060029544363310381
+    second: Marching Robot_62
+  - first:
+      213: -4977729159899651035
+    second: Marching Robot_63
+  - first:
+      213: -2541333369733355156
+    second: Marching Robot_64
+  - first:
+      213: 3936782700072010423
+    second: Marching Robot_65
+  - first:
+      213: 6184615980308977540
+    second: Marching Robot_66
+  - first:
+      213: -3326627786776171036
+    second: Marching Robot_67
+  - first:
+      213: -8385155928844307660
+    second: Marching Robot_68
+  - first:
+      213: 8854263142596990454
+    second: Marching Robot_69
+  - first:
+      213: -8835017448292207422
+    second: Marching Robot_70
+  - first:
+      213: 1315023611694998569
+    second: Marching Robot_71
+  - first:
+      213: 8819500485681180358
+    second: Marching Robot_72
+  - first:
+      213: -1523156186838024834
+    second: Marching Robot_73
+  - first:
+      213: 4118091870814533629
+    second: Marching Robot_74
+  - first:
+      213: 5673264998750766535
+    second: Marching Robot_75
+  - first:
+      213: 1625077963487393578
+    second: Marching Robot_76
+  - first:
+      213: 1368507526422571544
+    second: Marching Robot_77
+  - first:
+      213: -1954581566636218187
+    second: Marching Robot_78
+  - first:
+      213: -8073860063127683981
+    second: Marching Robot_79
+  - first:
+      213: -1299770907537081617
+    second: Marching Robot_80
+  - first:
+      213: -7608384193413017673
+    second: Marching Robot_81
+  - first:
+      213: 8685793449280178926
+    second: Marching Robot_82
+  - first:
+      213: -9106516612581352409
+    second: Marching Robot_83
+  - first:
+      213: 3830163065484678842
+    second: Marching Robot_84
+  - first:
+      213: 4023674003883372191
+    second: Marching Robot_85
+  - first:
+      213: 6556512629174639379
+    second: Marching Robot_86
+  - first:
+      213: 4161299267298784498
+    second: Marching Robot_87
+  - first:
+      213: 3854658085598271051
+    second: Marching Robot_88
+  - first:
+      213: -2313113520693060219
+    second: Marching Robot_89
+  - first:
+      213: 6048050658108294838
+    second: Marching Robot_90
+  - first:
+      213: 9087844363581918519
+    second: Marching Robot_91
+  - first:
+      213: 5504204090256748024
+    second: Marching Robot_92
+  - first:
+      213: 3990206748738729444
+    second: Marching Robot_93
+  - first:
+      213: -8294970681857192375
+    second: Marching Robot_94
+  - first:
+      213: 7988184699880177075
+    second: Marching Robot_95
+  - first:
+      213: -8795909593424390418
+    second: Marching Robot_96
+  - first:
+      213: -2791931688112897358
+    second: Marching Robot_97
+  - first:
+      213: 1025961526101263398
+    second: Marching Robot_98
+  - first:
+      213: 375568694899336606
+    second: Marching Robot_99
+  - first:
+      213: 86194153799020056
+    second: Marching Robot_100
+  - first:
+      213: -8907619208010659531
+    second: Marching Robot_101
+  - first:
+      213: 4269355169066785621
+    second: Marching Robot_102
+  - first:
+      213: 7479142658003258876
+    second: Marching Robot_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marching Robot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176bed0d9f3887940800000000000000
+      internalID: 5294126470948370033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34b0d1adfa2f4f0800000000000000
+      internalID: -796380832766147635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba57a42443167f870800000000000000
+      internalID: 8716542480877254059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e0f486f2deed40800000000000000
+      internalID: 5615657741611754075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1430ab31f48ca9880800000000000000
+      internalID: -8603343896178982079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_5
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a6cde8cd8d9960800000000000000
+      internalID: 7610394839448200111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4dada9f266e7dd0800000000000000
+      internalID: -2486437589614406467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19632abdd334970800000000000000
+      internalID: 8737895715557511650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46c1dafd53738a60800000000000000
+      internalID: 7675105037446661711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marching Robot_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03800ca437b934d20800000000000000
+      internalID: 3261621474624014384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
